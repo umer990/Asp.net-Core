@@ -1,6 +1,6 @@
 # Asp.net-Core
 
-
+Tutorial https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153?l=Qy5ik96dE_9411787171
 
 Install the .NET SDK
 
